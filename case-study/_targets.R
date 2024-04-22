@@ -64,6 +64,8 @@ tar_plan(
   # --- load data
   tar_target(
     data_file,
+    # NOTE: Data file was provided by authors of the original study
+    # and is not included in this repository.
     here::here("data", "diary_gocd2_luna_fazio_05062023.rds"),
     format = "file"
   ),
