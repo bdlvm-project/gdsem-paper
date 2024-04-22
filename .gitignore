@@ -1,0 +1,12 @@
+*.pdf
+*.rds
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+sandbox/*
+*/_targets/*
+exports/*
+_targets.yaml
